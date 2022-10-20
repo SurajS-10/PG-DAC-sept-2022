@@ -21,7 +21,7 @@ class Arr{
 			}
 		}
 		
-		System.out.println("Largest Number in array = "+arr[4]);
+		System.out.println("Largest Number in array = "+arr[arr.length-1]);
 		System.out.println("Largest Number in array = "+arr[0]);
 	}
 }
