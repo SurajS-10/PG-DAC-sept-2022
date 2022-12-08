@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=La+Belle+Aurore&display=swap');
+
+.images
+ {
+display: flex;
+flex-wrap: wrap;
+margin: 0 50px;
+padding: 30px;
+ }
+.photo {
+align-items: center;
+max-width: 50.333%;
+padding: 0 10px;
+height: 240px;
+}
+header{
+    background-image:linear-gradient(to right,#1752d1e7,#2af3e9 ) ;
+}
+
+
+
+.photo1 {
+    align-items: center;
+    max-width: 50.333%;
+    padding: 0 10px;
+    height: 240px;
+    margin-bottom: 5%;
+    margin-left: -17%;
+    }
+.photo2 {
+    align-items: center;
+    max-width: 50.333%;
+    padding: 0 10px;
+    height: 240px;
+    margin-bottom: 5%;
+    margin-left: 68px;
+    
+    }
+.photo img{
+
+width: 120%;
+height: 120%;
+} 
+
+.images
+{
+    align-items: center;
+    margin-left: 15em;
+}
+
+nav
+{
+    color: crimson;
+}
+
+#navbarSupportedContent
+{
+    color: crimson;
+}
+
+#id1
+{
+    /* margin-top: 5%; */
+    /* margin-bottom: 5%; */
+}
+
+.con
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.mk
+{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.mk2
+{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 10%;
+    width: 20%;
+}
+
+body
+{
+    background-image: url("sp-bg.jpg");
+    background-size: cover;
+
+}

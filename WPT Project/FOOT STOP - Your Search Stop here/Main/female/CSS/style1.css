@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.suraj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    height: 50px;
+    width: 100%;
+    background-image:linear-gradient(to right,#de6262,#ffb88c ) ;
+}
+
+.navbar{
+    height: 50px;
+}
+.all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    background-color: black;
+    color: white;
+}
